@@ -6,7 +6,7 @@
 
 ## **1.1 Ziele**
 
-Dieser Lehrpfad führt in Annotation als zentrale Methode der digitalen Geisteswissenschaften ein (s. Abschnitt [3](#3annotation-in-den-geisteswissenschaften)) und stellt die wichtigsten Annotationsarten und eine Auswahl der dafür zur Verfügung stehenden digitalen Werkzeuge vor (s. Abschnitt [4](#bookmark=id.j2bj1jl0q501)). Eines der Hauptziele des Lehrpfades ist es, nicht nur bei der Auswahl geeigneter Werkzeuge und Annotationsarten zu helfen, sondern auch die Projektplanung zu unterstützen. Hierfür werden wir in Abschnitt [2](#bookmark=id.lhufksmixy87) zeigen, wie Annotationsarbeiten in ein Forschungsprojekt integriert werden können.
+Dieser Lehrpfad führt in Annotation als zentrale Methode der digitalen Geisteswissenschaften ein (s. Abschnitt [3](#3-annotation-in-den-geisteswissenschaften)) und stellt die wichtigsten Annotationsarten und eine Auswahl der dafür zur Verfügung stehenden digitalen Werkzeuge vor (s. Abschnitt [4](#bookmark=id.j2bj1jl0q501)). Eines der Hauptziele des Lehrpfades ist es, nicht nur bei der Auswahl geeigneter Werkzeuge und Annotationsarten zu helfen, sondern auch die Projektplanung zu unterstützen. Hierfür werden wir in Abschnitt [2](#bookmark=id.lhufksmixy87) zeigen, wie Annotationsarbeiten in ein Forschungsprojekt integriert werden können.
 
 
 ## **1.2 Zielgruppe**
@@ -317,78 +317,116 @@ Als Werkzeuge für die manuelle Annotation kommen z. B. WebAnno oder CATMA in Fr
 
 # **5 Literatur**
 
+
 Buchholz, Sabine; Marsi, Erwin (2006): „CoNLL-X shared task on multilingual dependency parsing“. In: Proceedings of the tenth conference on computational natural language learning (CoNLL-X). New York City: Association for Computational Linguistics, S. 149–164.
+
 
 Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition,  (Version 4.3.0 vom 1. Februar 2021)“. Abgerufen am 30.08.2021 von http://weber-gesamtausgabe.de/A020001.
 
+
 Baker, Paul (2006): „„The question is, how cruel is it?“ Keywords, Foxhunting and the House of Commons“. 2006.
+
 
 Bender, Michael; Müller, Marcus (2020): „Heuristische Textpraktiken in den Wissenschaften: Eine kollaborative Annotationsstudie zum akademischen Diskurs“. In: _Zeitschrift für germanistische Linguistik_ 48(1), S. 1–46.
 
+
 Bohnenkamp-Renken, Anne (2002): „A1 Neugermanistische Editionswissenschaft“. In: Gabler, Hans Walter; Bohnenkamp-Renken, Anne (Hrsg.): _Kompendium der Editionswissenschaft. Ein Handbuch zur historischen und systematischen Erschließung eines interdisziplinären Gegenstands_. Online-Ausgabe., München: Universität München.
+
 
 Brinker, Klaus; Antos, Gerd; Heinemann, Wolfgang; u. a. (Hrsg.) (2000): _Text- und Gesprächslinguistik_. (= Handbücher zur Sprach- und Kommunikationswissenschaft 16,1) Berlin [u.a.]: de Gruyter.
 
+
 Brockman, William S.; Digital Library Federation (Hrsg.) (2001): _Scholarly work in the humanities and the evolving information environment_. (= Optimizing collections and services for scholarly use) Washington, D.C: Digital Library Federation, Council on Library and Information Resources.
+
 
 Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): _The Cambridge Handbook of English Corpus Linguistics_. Cambridge University Press, S. 90–105.
 
+
 Deppermann, Arnulf (2008): _Gespräche analysieren_. (= Qualitative Sozialforschung 3) 4. Aufl., Wiesbaden: VS Verl. für Sozialwiss.
+
 
 Deppermann, Arnulf; Habscheid, Stephan; Hartung, Martin; u. a. (2000): „Editorial: Was ist und was will GESPRÄCHSFORSCHUNG? Eine neue Zeitschrift stellt sich vor“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ 1(1), S. 1–8.
 
+
 Eckart de Castilho, Richard; Biemann, Chris; Gurevych, Iryna; u. a. (2014): „WebAnno: a flexible, web-based annotation tool for CLARIN“. In: _Proceedings of the CLARIN annual conference (CAC) 2014_. Utrecht, Netherlands: CLARIN ERIC.
+
 
 Eckart de Castilho, Richard; Mújdricza-Maydt, Éva; Yimam, Seid Muhie; u. a. (2016): „A web-based tool for the integrated annotation of semantic and syntactic structures“. In: _Proceedings of the workshop on language technology resources and tools for digital humanities (LT4DH)_. Osaka, Japan: The COLING 2016 Organizing Committee, S. 76–84, Abgerufen am 30.08.2021 von https://www.aclweb.org/anthology/W16-4011.
 
+
 Galinski, Agathe (2004): „Zweierlei Perspektiven auf Gespräche: Ethnomethodologische Konversationsanalyse und Diskursanalyse im kontrastiven Vergleich“. LINSE - Linguistik Server Essen.
+
 
 Gius, Evelyn; Meister, Jan Christoph; Petris, Marco; u. a. (2020): _CATMA_. Zenodo.
 
+
 Glück, Helmut; Rödel, Michael (Hrsg.) (2016): _Metzler Lexikon Sprache_. (= SpringerLink : Bücher) 5. Aufl., Stuttgart: J.B. Metzler.
+
 
 Gries, Stefan Thomas (2009): „What is Corpus Linguistics?“. In: _Language and Linguistics Compass_ 3(5), S. 1–17.
 
+
 Hinrichs, Erhard W.; Hinrichs, Marie; Zastrow, Thomas (2010): „WebLicht: Web-Based LRT Services for German“. In: _Proceedings of the ACL 2010 System Demonstrations_. S. 25–29, Abgerufen am 30.08.2021 von http://www.aclweb.org/anthology/P10-4005.
+
 
 IDS Mannheim (2014): _Datenbank für gesprochenes Deutsch DGD_.
 
+
 MacWhinney, Brian (2000): _The CHILDES Project: Tools for Analyzing Talk._ 3. Aufl., Mahwah, NJ: Lawrence Erlbaum Associates.
+
 
 MacWhinney, Brian; Wagner, Johannes (2010): „Transcribing, searching and data sharing: The CLAN software and the TalkBank data repository.“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ (11), S. 154–173.
 
+
 Meister, Jan Christoph (2015): „All dressed up and nowhere to go? The strategic role of digital humanities annotation tools“. Warburg-Haus, 30.10.2015.
+
 
 National Information Standards Organization (U.S.) (2004): _Understanding metadata._ Bethesda, MD: NISO Press.
 
+
 Neuroth, Heike; Neuroth, Heike; Rapp, Andrea; Söring, Sibylle (Hrsg.): (2015): „TextGrid: Von der Community - für die Community: Eine virtuelle Forschungsumgebung für die Geisteswissenschaften“. Göttingen.
+
 
 Nutt-Kofoth, Rüdiger (2012): „Sichten – Perspektiven auf Text“. In: Bohnenkamp-Renken, Anne (Hrsg.): _Medienwandel / Medienwechsel in der Editionswissenschaft_. Berlin, Boston: DE GRUYTER, S. 19–29.
 
+
 Plachta, Bodo (2013): _Editionswissenschaft : Eine Einführung in Methode und Praxis der Edition neuerer Texte_. (= Reclams universal-bibliothek 17603) 3. ergänzte und aktualisierte Auflage., Stuttgart: Reclam.
+
 
 Rehbein, Jochen; Schmidt, Thomas; Meyer, Bernd; u. a. (2004): _Handbuch für das computergestütze Transkribieren nach HIAT_. (= Arbeiten zur Mehrsprachigkeit - Folge B) Hamburg: Sonderforschungsbereich 538.
 
+
 Schmidt, Thomas (2004): „EXMARaLDA - ein modellierungs- und visualisierungsverfahren für die computergestützte transkription gesprochener sprache“. In: Buchberger, Ernst (Hrsg.): _Proceedings of konvens 2004_.
+
 
 Schmidt, Thomas; Kaiser, Julia (2016): „Einführung in die Benutzung der Ressourcen DGD und FOLK für gesprächsanalytische Zwecke. Handreichung: Einfache Recherche-Anfragen als Übungs-Beispiele“. IDS. Institut für deutsche Sprache Mannheim.
 
+
 Schmunk, Stefan; Reiche, Ruth; Schöch, Christof; u. a.; Blümm, Mirjam; Schmunk, Stefan; Schöch, Christof (Hrsg.): (2014): „Verfahren der digital humanities in den geistes- und kulturwissenschaften“. In: _DARIAH-DE Working-Papers 4_ 4, S. 1–35.
+
 
 Seiffert, Hans Werner (2005): „Edition (1956/58)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): _Dokumente zur Geschichte der neugermanistischen Edition_. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der Edition.
 
+
 Selting, Margret (1995): _Prosodie im Gespräch: Aspekte einer interaktionalen Phonologie der Konversation_. (= Linguistische Arbeiten 329)) Tübingen: Zugl.: Oldenburg, Univ., Habil.-Schr., 1991.
+
 
 Selting, Margret; Auer, Peter; Deppermann, Arnulf; Hartung, Martin (Hrsg.): (2009): „Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ (10), S. 353–402.
 
+
 Sidnell, Jack (Hrsg.) (2013): _The handbook of conversation analysis_. (= Blackwell handbooks in linguistics) Malden, Mass.: Wiley-Blackwell.
+
 
 Stolz, Michael (2014): „Chretiens ,Roman de Perceval ou le Conte du Graal’ und Wolframs .Parzival’. Ihre Überlieferung und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): _Wolframs parzival-roman im europäischen kontext : Tübinger kolloqium 2012_. (= Veröffentlichungen der wolfram-von-eschenbach-gesellschaft 23) Berlin.
 
+
 Stolz, Michael (2021): „Parzival-Projekt. Wolfram von Eschenbach, ›Parzival‹.  Eine überlieferungskritische Ausgabe in digitaler Form.“. _Parzival-Projekt_ Abgerufen am 30.08.2021 von https://www.parzival.unibe.ch/home.html.
+
 
 Suphan, Bernhard (2005): „Vorreden zur Weimarer Goethe-Ausgabe, Bd. 1 (1887)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): _Dokumente zur Geschichte der neugermanistischen Edition_. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer.
 
+
 Unsworth, John (2000): „Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?“. London, 13.5.2000.
+
 
 Wittenburg, Peter; Brugman, Hennie; Russel, Albert; u. a. (2006): „ELAN: a professional framework for multimodality research“. In: _Proceedings of the fifth international conference on language resources and evaluation (LREC’06)_. Genoa, Italy: European Language Resources Association (ELRA).
