@@ -252,7 +252,7 @@ Um eine solche Studie durchzuführen, bedarf es eines Klassifizierungsschemas, d
 
 Das Annotieren von Texten mit solchen Basiskategorien führt zu einer ständigen Überprüfung der Kategorien und ihrer Definitionen. Wird im Verlaufe der Arbeit deutlich, dass die Kategorien nicht ausreichen oder nicht die richtige Analyse-Granularität zulassen, wird das Klassifzierungsschema erweitert. Jede Erweiterung erfordert es, die schon durchgeführten Annotationen zu überprüfen und an das veränderte Schema anzupassen (s. Annotationsschleife in Abbildung "Einbettung von Annotationsarbeiten"). Das Ergebnis dieser Annotationsschleife ist ein in Bezug auf die Forschungsfrage ausgereiftes Kategoriensystem. Die Verfeinerungen der Basiskategorien im Forschungsprojekt von Bender und Müller zeigt die folgende Grafik:
 
-{% include image.html url="images/image2.png" description="Kategoriensystem "HeuTex" (Bender & Müller 2020: 23)" %}
+{% include image.html url="images/image2.png" description="Kategoriensystem 'HeuTex' (Bender & Müller 2020: 23)" %}
 
 
 ### **3.2.2 Kategorisierung durch Annotation**
@@ -342,6 +342,7 @@ Das TextGrid-Lab ist eine Komponente der virtuellen Forschungsumgebung [TextGrid
 
 {% include image.html url="images/image8.png" description="Eingebauter XML-Editor in TextGrid-Lab. Der lizenzpflichtige Editor Oxygen kann nachinstalliert werden." %}
 
+Auch Bilder können direkt im TextGrid-Lab mit dem Bild-Annotations-Editor bearbeitet werden.
 
 {% include image.html url="images/image9.png" description="Eingebauter Bild-Annotations-Editor in TextGrid-Lab" %}
 
@@ -376,7 +377,7 @@ keit/Tempo und Rhythmus" (Selting 1995: 1). Das im Bereich der linguistischen Ge
 
 Die Datenbank für gesprochenes Deutsch (DGD) des Instituts für deutsche Sprache, Mannheim bietet Zugriff auf 39 Audio-Korpora, die mit Metadaten, Annotationen und Transkriptionen erschlossen wurden. Die Transkriptionen können direkt auf der Webseite mitsamt Metadaten und Annotationen durchsucht und analysiert werden.
 
-{% include image.html url="images/image11.png" description="Suchanfrage nach Lemma "Apfel" im _Forschungs- und Lehrkorpus Gesprochenes Deutsch_ (FOLK) der DGD (entnommen: Schmidt & Kaiser 2016: 3)" %}
+{% include image.html url="images/image11.png" description="Suchanfrage nach Lemma 'Apfel' im _Forschungs- und Lehrkorpus Gesprochenes Deutsch_ (FOLK) der DGD (entnommen: Schmidt & Kaiser 2016: 3)" %}
 
 
 #### **4.2.2.2 [TalkBank](https://talkbank.org/) (MacWhinney & Wagner 2010)**
@@ -645,7 +646,7 @@ WebLicht ist ein Online-Service der Universität Tübingen im Rahmen der CLARIAH
 
 Die Spalte "token" ist die gegebene Information, die restlichen Spalten sind die annotierten Zusatzinformationen. Von links nach rechts werden Informationen zur Wortart, Grundform, Kasus, Genus, Modus, Numerus, Person, Tempus, Verbform, Konstituentenreihenfolge, Relation im Satz und Wert im topologischen Satzmodell gegeben.
 
-{% include image.html url="images/image18.png" description="Beispiel für die Visualisierung der der Ebenen "token", "POS" und "rel" der oben gezeigten Tabelle direkt in der WebLicht-Oberfläche." %}
+{% include image.html url="images/image18.png" description="Beispiel für die Visualisierung der der Ebenen 'token', 'POS' und 'rel' der oben gezeigten Tabelle direkt in der WebLicht-Oberfläche." %}
 
 
 ## **4.4 Manuelle Text-Annotation auf Satz- und Wortebene**
