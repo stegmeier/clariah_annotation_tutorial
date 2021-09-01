@@ -1,62 +1,3 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 6.256 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β31
-* Wed Sep 01 2021 03:33:38 GMT-0700 (PDT)
-* Source doc: lehrpfad_annotation (final für export)
-
-ERROR:
-undefined internal link to this URL: "#heading=h.hj1uapampiiu".link text: unten
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.czlj65ryqxr1".link text: automatische Annotation
-?Did you generate a TOC?
-
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
-
-WARNING:
-You have 5 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 2; WARNINGs: 1; ALERTS: 13.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Lehrpfad Annotation
 
 
@@ -80,20 +21,12 @@ Da Annotation als Basismethode für sehr unterschiedliche Forschungsinteressen u
 
 # **2 Annotation als Arbeitsphase in einem Forschungsprojekt**
 
-Annotation, also die Anreicherung von Information mit Zusatzinformation (Näheres s. 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "unten"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[unten](#heading=h.hj1uapampiiu)) wird immer dann eingesetzt, wenn eine Fragestellung nicht anhand der Textoberfläche bearbeitet werden kann. 
+Annotation, also die Anreicherung von Information mit Zusatzinformation (Näheres s. [unten](#heading=h.hj1uapampiiu)) wird immer dann eingesetzt, wenn eine Fragestellung nicht anhand der Textoberfläche bearbeitet werden kann. 
 
 
 ## **2.1 Beispiel 1: Häufigkeit bestimmter Wortarten**
 
-So ist zum Beispiel die Frage "Wie häufig verwendet ein_e Autor_in attributive Adjektive" nur dann bearbeitbar, wenn jedem Wort zugeordnet wird, welcher Wortart es angehört. Allerdings ist diese Frage noch ohne großen wissenschaftlichen Wert, da sie keine nennenswerte Hypothese enthält. Die Fragestellung muss also erweitert werden, z. B. um die Hypothese, dass erfahrene Autor_innen attributive Adjektive nur sparsam einsetzen. Als Thema ließe sich das dann so ausdrücken: "Aus Erfahrung sparsam: Häufigkeit des Gebrauchs attributiver Adjektive im Vergleich zwischen Früh- und Spätwerk". Die Auszeichnung der Wörter mit Wortarten genügt nun nicht mehr, es muss zusätzlich noch das Entstehungsdatum der zu untersuchenden Texte annotiert werden. Viele Texte mit Wortartinformation und Veröffentlichungsdatum auszuzeichnen ist heutzutage nicht sehr zeitaufwendig, da es genügend verlässliche digitale Tools ("Tagger") für die 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "automatische Annotation"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[automatische Annotation](#heading=h.czlj65ryqxr1) von Texten mit basalen linguistischer Kategorien gibt. Auch das Veröffentlichungsdatum kann normalerweise bereits bei der Recherche nach den Texten praktisch nebenbei vermerkt werden. 
+So ist zum Beispiel die Frage "Wie häufig verwendet ein_e Autor_in attributive Adjektive" nur dann bearbeitbar, wenn jedem Wort zugeordnet wird, welcher Wortart es angehört. Allerdings ist diese Frage noch ohne großen wissenschaftlichen Wert, da sie keine nennenswerte Hypothese enthält. Die Fragestellung muss also erweitert werden, z. B. um die Hypothese, dass erfahrene Autor_innen attributive Adjektive nur sparsam einsetzen. Als Thema ließe sich das dann so ausdrücken: "Aus Erfahrung sparsam: Häufigkeit des Gebrauchs attributiver Adjektive im Vergleich zwischen Früh- und Spätwerk". Die Auszeichnung der Wörter mit Wortarten genügt nun nicht mehr, es muss zusätzlich noch das Entstehungsdatum der zu untersuchenden Texte annotiert werden. Viele Texte mit Wortartinformation und Veröffentlichungsdatum auszuzeichnen ist heutzutage nicht sehr zeitaufwendig, da es genügend verlässliche digitale Tools ("Tagger") für die [automatische Annotation](#heading=h.czlj65ryqxr1) von Texten mit basalen linguistischer Kategorien gibt. Auch das Veröffentlichungsdatum kann normalerweise bereits bei der Recherche nach den Texten praktisch nebenbei vermerkt werden. 
 
 
 ## **2.2 Beispiel 2: Zuordnung von Eigenschaften zu Figuren**
@@ -108,20 +41,12 @@ Den Zeitaufwand für die tatsächliche Annotation und alle damit verbundenen Arb
 
 
 ## **2.3 Workflow Annotation in einem Forschungsprojekt **
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
-
 
 [Einbettung von Annotationsarbeiten in ein Forschungsprojekt]
 
 
 # **3 Annotation in den Geisteswissenschaften**
-
 
             <p style="text-align: right">
 Annotation is one of the most important scholarly primitives in the humanities […]. Annotation tools can demonstrate, perhaps like no other tool can, the usefulness of bringing the digital into the humanities. (Meister 2015 15:20 min)</p>
@@ -332,11 +257,6 @@ In ihrer Studie analysieren Bender und Müller
 Um eine solche Studie durchzuführen, bedarf es eines Klassifizierungsschemas, das es ermöglicht, verschiedene Typen heuristischer Textpraktiken zu identifizieren. Da ein solches Schema nicht vorliegt, ist die Entwicklung des Schemas ein unverzichtbarer Teil des Forschungsprojekts und gleichzeitig ein Forschungsergebnis: "Da das Annotationsschema nach unserem Modell der forschenden Annotation bereits ein wichtiges Ergebnis darstellt, präsentieren wir dieses entsprechend im Ergebniskapitel (Kap. 6)." (Bender & Müller 2020: 3) Die Ausgangsbasis bildete ein taxonomisches Annotationsschema (bestehend aus den Basiskategorien _Exposition_, _Definition_ und _Stützung_ von Assertionen), "das aus Kategorien besteht, die aus den theoretischen Vorüberlegungen hergeleitet wurden. Diese  Kategorien grenzen verschiedene in Fachdiskursen konventionalisierte Praktiken der heuristischen Komplexitätsreduktion [...] voneinander ab, also Selektions- und Entscheidungsroutinen [...], die durch bestimmte Ausdrücke indiziert werden." (Bender & Müller 2020: 18)
 
 Das Annotieren von Texten mit solchen Basiskategorien führt zu einer ständigen Überprüfung der Kategorien und ihrer Definitionen. Wird im Verlaufe der Arbeit deutlich, dass die Kategorien nicht ausreichen oder nicht die richtige Analyse-Granularität zulassen, wird das Klassifzierungsschema erweitert. Jede Erweiterung erfordert es, die schon durchgeführten Annotationen zu überprüfen und an das veränderte Schema anzupassen (s. Annotationsschleife in Abbildung "Einbettung von Annotationsarbeiten"). Das Ergebnis dieser Annotationsschleife ist ein in Bezug auf die Forschungsfrage ausgereiftes Kategoriensystem. Die Verfeinerungen der Basiskategorien im Forschungsprojekt von Bender und Müller zeigt die folgende Grafik:
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image2.png "image_tooltip")
 
