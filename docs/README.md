@@ -75,8 +75,6 @@ Dabei ist zu beachten, dass manche Definitionen, wie z. B. die oben angeführte 
 
 Annotation kann als Methode aus zwei Richtungen betrachtet werden: Zum einen unterstützen Annotationen den Prozess der Kategorienbildung im Sinne der Erstellung eines Kategoriensystems, zum anderen erlaubt das Annotieren, vorhandene Kategorien in den annotierten Daten explizit zu machen. Vorhandene Kategorien können sich auf alle Dimensionen von Text beziehen, zum Beispiel:
 
-{% include table_test.html %}
-
 
 {% include table1.html %}
 
@@ -284,8 +282,6 @@ WebLicht ist ein Online-Service der Universität Tübingen im Rahmen der CLARIAH
 
 {% include table2.html %}
 
-
-[Analyse und Annotation des Satzes "Karin fliegt nach New York." mit der All-in-One-Option im WebLicht-"Easy Mode". Die Tabelle wurde direkt in WebLicht generiert.]
 
 Die Spalte "token" ist die gegebene Information, die restlichen Spalten sind die annotierten Zusatzinformationen. Von links nach rechts werden Informationen zur Wortart, Grundform, Kasus, Genus, Modus, Numerus, Person, Tempus, Verbform, Konstituentenreihenfolge, Relation im Satz und Wert im topologischen Satzmodell gegeben.
 
