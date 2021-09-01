@@ -1,4 +1,9 @@
-# Lehrpfad Annotation
+# Inhalt
+[1 Einleitung](#1-einleitung)
+[2 Annotation als Arbeitsphase in einem Forschungsprojekt](#2-annotation-als-arbeitsphase-in-einem-Forschungsprojekt)
+[3 Annotationen in den Geisteswissenschaften](#3-annotation-in-den-geisteswissenschaften)
+[4 Annotationsarten und -werkzeuge](#4-annotationsarten-und--werkzeuge)
+[5 Literaturverzeichnis](#5-literatur)
 
 
 # **1 Einleitung**
@@ -6,7 +11,7 @@
 
 ## **1.1 Ziele**
 
-Dieser Lehrpfad führt in Annotation als zentrale Methode der digitalen Geisteswissenschaften ein (s. Abschnitt [3](#3-annotation-in-den-geisteswissenschaften)) und stellt die wichtigsten Annotationsarten und eine Auswahl der dafür zur Verfügung stehenden digitalen Werkzeuge vor (s. Abschnitt [4](#bookmark=id.j2bj1jl0q501)). Eines der Hauptziele des Lehrpfades ist es, nicht nur bei der Auswahl geeigneter Werkzeuge und Annotationsarten zu helfen, sondern auch die Projektplanung zu unterstützen. Hierfür werden wir in Abschnitt [2](#bookmark=id.lhufksmixy87) zeigen, wie Annotationsarbeiten in ein Forschungsprojekt integriert werden können.
+Dieser Lehrpfad führt in Annotation als zentrale Methode der digitalen Geisteswissenschaften ein (s. Abschnitt [3](#3-annotation-in-den-geisteswissenschaften)) und stellt die wichtigsten Annotationsarten und eine Auswahl der dafür zur Verfügung stehenden digitalen Werkzeuge vor (s. Abschnitt [4](#4-annotationsarten-und--werkzeuge)). Eines der Hauptziele des Lehrpfades ist es, nicht nur bei der Auswahl geeigneter Werkzeuge und Annotationsarten zu helfen, sondern auch die Projektplanung zu unterstützen. Hierfür werden wir in Abschnitt [2](#2-annotation-als-arbeitsphase-in-einem-Forschungsprojekt) darstellen, wie Annotationsarbeiten in ein Forschungsprojekt integriert werden können.
 
 
 ## **1.2 Zielgruppe**
@@ -304,14 +309,15 @@ Als Werkzeuge für die manuelle Annotation kommen z. B. WebAnno oder CATMA in Fr
 [WebAnno](https://webanno.github.io/webanno/) ist eher auf die Erstellung von Gold-Standards ausgelegt und bietet z. B. die Möglichkeit, die Übereinstimmung bzw. Abweichung zwischen Annotationen desselben Textes durch mehrere Annotatoren zu berechnen. WebAnno wird als freie Software für die Installation auf einem Server oder einem Einzelrechner angeboten, [ein Zugriff über das Internet ist ebenfalls möglich.](https://webanno.sfs.uni-tuebingen.de/) WebAnno bietet die Möglichkeit, Werkzeuge, z. B. WebLicht, für die automatische (Vor-) Annotation in den Arbeitsablauf zu integrieren.
 
 
-{% include image.html url="images/image20.png" description="[Startseite](https://webanno.sfs.uni-tuebingen.de/) der von der Universität Tübingen im Rahmen der CLARIAH / CLARIN-D-Infrastruktur gehosteten WebAnno-Instanz" %}
+{% include image.html url="images/image20.png" description="Startseite der von der Universität Tübingen im Rahmen der CLARIAH / CLARIN-D-Infrastruktur gehosteten WebAnno-Instanz" %}
 
 
 #### **4.4.2.2 Catma (Gius u. a. 2020)**
 
-[CATMA](https://catma.de/) wurde ursprünglich für literaturwissenschaftliche Annotationen entwickelt und steht online zur Verfügung. Es erlaubt kollaboratives Arbeiten ebenso wie die Erstellung eigener Annotationsschemata mit mehreren Ebenen.
+[CATMA](https://catma.de/) wurde ursprünglich für literaturwissenschaftliche Annotationen entwickelt und steht als Online-Service zur Verfügung. Es erlaubt kollaboratives Arbeiten ebenso wie die Erstellung eigener Annotationsschemata mit mehreren Ebenen. Der folgende Screenshot ist dem [CATMA-Tutorial](https://catma.de/how-to/tutorials/manual-annotation/") entnommen.
 
-{% include image.html url="images/image21.png" description="Annotations-Editor in CATMA. Quelle: [CATMA-Tutorial](https://catma.de/how-to/tutorials/manual-annotation/)" %}
+
+{% include image.html url="images/image21.png" description="Annotations-Editor in CATMA. %}
 
 
 
