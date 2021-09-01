@@ -1,6 +1,5 @@
 # Lehrpfad Annotation
 
-{% include test.html %}
 
 # **1 Einleitung**
 
@@ -43,8 +42,7 @@ Den Zeitaufwand für die tatsächliche Annotation und alle damit verbundenen Arb
 
 ## **2.3 Workflow Annotation in einem Forschungsprojekt**
 
-{% include image.html url="images/annotation_workflow.png" description="Einbettung von Annotationsarbeiten in ein Forschungsprojekt" %}
-
+{% include image.html url="images/image1.png" description="Einbettung von Annotationsarbeiten in ein Forschungsprojekt" %}
 
 
 # **3 Annotation in den Geisteswissenschaften**
@@ -63,12 +61,12 @@ Aus Sicht der Geisteswissenschaften ist Annotation nichts Neues. Im Gegenteil, N
 Zusatzinformationen können sich auf ein Digitalisat im Ganzen oder auf Teile davon beziehen. Eher objektive Zusatzinformationen wie Autor und Erscheinungsjahr bei Büchern, Künstler und Erschaffungsjahr bei Kunstwerken oder Fundstelle und vermutliches Alter bei archäologischen Funden werden dabei als "Metadaten" bezeichnet:
 
 
-    "Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource. Metadata is often called data about data or information about information." (National Information Standards Organization (U.S.) 2004: 1)
+> "Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource. Metadata is often called data about data or information about information." (National Information Standards Organization (U.S.) 2004: 1)
 
 Eher interpretatorische Informationen wie Wortart, Aussage, kultureller Stellenwert o. Ä. werden hingegen als Annotationen bezeichnet. 
 
 
-    Annotation: Auszeichnung linguistischer Informationen i. d.R. mithilfe einer  Mark-up-Sprache. Hierbei werden dem Primärtext interpretative Analysen auf unterschiedlichen linguistischen Ebenen (Phonetik, Syntax, Semantik, Pragmatik, Diskurs, Stil, Lexik) hinzugefügt. Besondere Annotationen sind Fehlerannotationen in Lernerkorpora sowie die Transkription gesprochener Sprache in Sprachkorpora. (Eintrag „Annotation“: Glück & Rödel 2016)
+>"Annotation: Auszeichnung linguistischer Informationen i. d.R. mithilfe einer  Mark-up-Sprache. Hierbei werden dem Primärtext interpretative Analysen auf unterschiedlichen linguistischen Ebenen (Phonetik, Syntax, Semantik, Pragmatik, Diskurs, Stil, Lexik) hinzugefügt. Besondere Annotationen sind Fehlerannotationen in Lernerkorpora sowie die Transkription gesprochener Sprache in Sprachkorpora." (Eintrag „Annotation“: Glück & Rödel 2016)
 
 Dabei ist zu beachten, dass manche Definitionen, wie z. B. die oben angeführte von TaDiRAH, auch Metadaten als (eine Form der) Annotation betrachten.
 
@@ -236,9 +234,7 @@ Annotation kann als Methode aus zwei Richtungen betrachtet werden: Zum einen unt
    </td>
   </tr>
 </table>
-
-
-[mögliche Annotationskategorien; unvollständige Beispielliste]
+*mögliche Annotationskategorien; unvollständige Beispielliste*
 
 
 ### **3.2.1 Kategorienbildung durch Annotation**
@@ -250,17 +246,13 @@ Die Kategorienbildung dient entweder der Erstellung eines Gold-Standards für au
 
 In ihrer Studie analysieren Bender und Müller 
 
-
-    "Formulierungsverfahren, mit denen in institutionell verankerten Routinen neues Wissen generiert und an vorhandenes Wissen angeschlossen wird, z. B. ‚die Relevanz eines Forschungsthemas markieren‘, ‚einen Begriff definieren‘ oder ‚eine Aussage argumentativ stützen‘. Ziel ist es herauszufinden, in welchem Ausmaß, in welcher Verteilung und mit welcher Kombinatorik solche Textpraktiken in unterschiedlichen wissenschaftlichen Disziplinen vorkommen und welche Effekte fachkulturelle Kontexte auf heuristische Textpraktiken haben." (Bender & Müller 2020: 2)
+> "Formulierungsverfahren, mit denen in institutionell verankerten Routinen neues Wissen generiert und an vorhandenes Wissen angeschlossen wird, z. B. ‚die Relevanz eines Forschungsthemas markieren‘, ‚einen Begriff definieren‘ oder ‚eine Aussage argumentativ stützen‘. Ziel ist es herauszufinden, in welchem Ausmaß, in welcher Verteilung und mit welcher Kombinatorik solche Textpraktiken in unterschiedlichen wissenschaftlichen Disziplinen vorkommen und welche Effekte fachkulturelle Kontexte auf heuristische Textpraktiken haben." (Bender & Müller 2020: 2)
 
 Um eine solche Studie durchzuführen, bedarf es eines Klassifizierungsschemas, das es ermöglicht, verschiedene Typen heuristischer Textpraktiken zu identifizieren. Da ein solches Schema nicht vorliegt, ist die Entwicklung des Schemas ein unverzichtbarer Teil des Forschungsprojekts und gleichzeitig ein Forschungsergebnis: "Da das Annotationsschema nach unserem Modell der forschenden Annotation bereits ein wichtiges Ergebnis darstellt, präsentieren wir dieses entsprechend im Ergebniskapitel (Kap. 6)." (Bender & Müller 2020: 3) Die Ausgangsbasis bildete ein taxonomisches Annotationsschema (bestehend aus den Basiskategorien _Exposition_, _Definition_ und _Stützung_ von Assertionen), "das aus Kategorien besteht, die aus den theoretischen Vorüberlegungen hergeleitet wurden. Diese  Kategorien grenzen verschiedene in Fachdiskursen konventionalisierte Praktiken der heuristischen Komplexitätsreduktion [...] voneinander ab, also Selektions- und Entscheidungsroutinen [...], die durch bestimmte Ausdrücke indiziert werden." (Bender & Müller 2020: 18)
 
 Das Annotieren von Texten mit solchen Basiskategorien führt zu einer ständigen Überprüfung der Kategorien und ihrer Definitionen. Wird im Verlaufe der Arbeit deutlich, dass die Kategorien nicht ausreichen oder nicht die richtige Analyse-Granularität zulassen, wird das Klassifzierungsschema erweitert. Jede Erweiterung erfordert es, die schon durchgeführten Annotationen zu überprüfen und an das veränderte Schema anzupassen (s. Annotationsschleife in Abbildung "Einbettung von Annotationsarbeiten"). Das Ergebnis dieser Annotationsschleife ist ein in Bezug auf die Forschungsfrage ausgereiftes Kategoriensystem. Die Verfeinerungen der Basiskategorien im Forschungsprojekt von Bender und Müller zeigt die folgende Grafik:
 
-![alt_text](images/image2.png "image_tooltip")
-
-
-[Kategoriensystem "HeuTex" (Bender & Müller 2020: 23)]
+{% include image.html url="images/image2.png" description="Kategoriensystem "HeuTex" (Bender & Müller 2020: 23)" %}
 
 
 ### **3.2.2 Kategorisierung durch Annotation**
@@ -270,19 +262,13 @@ Kategorisierungen sind Anwendungen von Kategoriensystemen auf Daten, sie liegen 
 
 #### **3.2.2.1 Beispiel: "'The question is, how cruel is it?' Keywords, Foxhunting and the House of Commons" (Baker 2006)**
 
-Die Grundlage für Bakers Untersuchung sind die Debatten zur Fuchsjagd, die 2002-2003 im britischen Parlament gehalten wurden. Sein Forschungsinteresse richtet sich auf statistisch signifikante Wörter (_keywords_) und Kategorien (_key categories_), die von den Befürwortern und Gegnern verwendet wurden. Während Keywords ohne Annotation aus Frequenzvergleichen der Teilkorpora errechnet werden können (Demmen & Culpeper 2015), können Key-Kategorien erst dann berechnet werden, wenn die vorliegenden Texte mit entsprechenden Kategorien annotiert wurden. Baker nutzt hierzu USAS (UCREL Semantic Analysis System), ein System zur automatischen Annotation von Texten mit semantischen Kategorien. Nach der Berechnung der Key-Kategorien analysiert er die Konkordanzen aller mit diesen Kategorien ausgezeichneten Wörter  (Baker 2006: 6 f):
+Die Grundlage für Bakers Untersuchung sind die Debatten zur Fuchsjagd, die 2002-2003 im britischen Parlament gehalten wurden. Sein Forschungsinteresse richtet sich auf statistisch signifikante Wörter (_keywords_) und Kategorien (_key categories_), die von den Befürwortern und Gegnern verwendet wurden. Während Keywords ohne Annotation aus Frequenzvergleichen der Teilkorpora errechnet werden können (Demmen & Culpeper 2015), können Key-Kategorien erst dann berechnet werden, wenn die vorliegenden Texte mit entsprechenden Kategorien annotiert wurden. Baker nutzt hierzu USAS (UCREL Semantic Analysis System), ein System zur automatischen Annotation von Texten mit semantischen Kategorien. Nach der Berechnung der Key-Kategorien analysiert er die Konkordanzen aller mit diesen Kategorien ausgezeichneten Wörter:
 
 
-    Two key tags which occurred significantly more often in the pro-hunt speeches were S1.2.6  ‘sensible’ and G2.2 ‘ethics – general’. Looking at a concordance of words that were tagged as S1.2.6 (Table 5 shows a small sample from of the total number of cases) it is clear that this contains a list of words relating to issues of sense: sensible, reasonable, common sense, rational, ridiculous, illogical and absurd. The prevalence of this class of words is due to the way that the pro-hunt speakers construct the proposed ban on hunting (as ridiculous, illogical and absurd) and the alternative decision to keep hunting (as reasonable, sensible and rational). While this way of presenting a position would appear to make sense in any argument it should be noted that the anti-hunt speakers did not tend to characterise the debate in this way. They did not argue, for example, that their position was sensible, reasonable etc. and that of their opponents was ridiculous and absurd. It is also worth noting that one feature of hegemonic discourses is that they are seen as ‘common-sense’ ways of thinking. To continually refer to your arguments in terms of ‘common-sense’ is therefore a powerful rhetorical strategy. With this sort of analysis, we are not only seeing the presence of discourses in texts, but we are also uncovering evidence of how they are repeatedly presented as the ‘right’ way of viewing the world. 
+>"Two key tags which occurred significantly more often in the pro-hunt speeches were S1.2.6  ‘sensible’ and G2.2 ‘ethics – general’. Looking at a concordance of words that were tagged as S1.2.6 (Table 5 shows a small sample from of the total number of cases) it is clear that this contains a list of words relating to issues of sense: sensible, reasonable, common sense, rational, ridiculous, illogical and absurd. The prevalence of this class of words is due to the way that the pro-hunt speakers construct the proposed ban on hunting (as ridiculous, illogical and absurd) and the alternative decision to keep hunting (as reasonable, sensible and rational). While this way of presenting a position would appear to make sense in any argument it should be noted that the anti-hunt speakers did not tend to characterise the debate in this way. They did not argue, for example, that their position was sensible, reasonable etc. and that of their opponents was ridiculous and absurd. It is also worth noting that one feature of hegemonic discourses is that they are seen as ‘common-sense’ ways of thinking. To continually refer to your arguments in terms of ‘common-sense’ is therefore a powerful rhetorical strategy. With this sort of analysis, we are not only seeing the presence of discourses in texts, but we are also uncovering evidence of how they are repeatedly presented as the ‘right’ way of viewing the world." (Baker 2006: 6 f)
 
 
-    
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
+{% include image.html url="images/image3.png" description="Konkordanzen von mit semantischen Kategorien getaggten Wörtern" %}
 
 
 # **4 Annotationsarten und -werkzeuge**
@@ -316,14 +302,8 @@ Neben der Grundlage für die Edition muss auch entschieden werden, welcher Adres
 Ähnlich wie bei älterer Literatur liegt auch neuere Literatur in mehreren Fassungen vor, die für eine vollständige historisch-kritische Ausgabe alle ausgewertet werden müssen. Eindrucksvoll demonstriert dies z. B. die online zugängliche Faustedition:
 
 
+{% include image.html url="images/image4.png" description="Faust-Edition als Beispiel für historisch-kritische Editionsarbeit" %}
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-[Faust-Edition als Beispiel für historisch-kritische Editionsarbeit]
 
 Für jede Zeile der Edition werden per Annotation die Varianten in den Textzeugen hinterlegt und über Transformationen auf der Web-Oberfläche zugänglich gemacht.
 
@@ -334,27 +314,13 @@ Bei der Edition älterer Texte stehen handschriftliche Abschriften im Mittelpunk
 
 Da die Abschriften eines Werkes unterschiedlichen Grundlagen folgen (können), ist eine editionswissenschaftliche Aufgabe  die Identifizierung von unterschiedlichen Textfassungen, denen die einzelnen Textzeugen zugeordnet werden können. Das Parzival-Projekt(Stolz 2021) geht von vier Textfassungen aus, die mit Bezug zu den ihnen am nächsten stehenden Handschriften als *D, *m, *G und *T bezeichnet werden. Dabei zeigt der Asterisk (*) an, dass es sich um eine konstituierte Textfassung handelt und der Buchstabe verweist auf die Handschrift (vgl. auch das [Handschriftenverzeichnis](https://www.parzival.unibe.ch/hsverz.html) des Parzival-Projekts).
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-[Parzival-Projekt, Universität Bern: Fassungen im Vergleich. (vgl. Stolz 2021) Auf der [Originalseite](https://www.parzival.unibe.ch/editionen.html) werden 4 Fassungen nebeneinander dargestellt. Der besseren Lesbarkeit halber werden hier nur zwei wiedergegeben.]
+{% include image.html url="images/image5.png" description="Parzival-Projekt, Universität Bern: Fassungen im Vergleich. (vgl. Stolz 2021) Auf der [Originalseite](https://www.parzival.unibe.ch/editionen.html) werden 4 Fassungen nebeneinander dargestellt. Der besseren Lesbarkeit halber werden hier nur zwei wiedergegeben." %}
 
 Abweichungen von der konstituierten Textfassung werden in Apparat 2 im unteren Teil der Seite verzeichnet. Die Siglen sind mit Links hinterlegt, die direkt auf eine parallele Darstellung von Digitalisat und Transkription führen.
 
 
+{% include image.html url="images/image6.png" description="Parzival-Projekt, Universität Bern: Parallele Darstellung von Transkription und Digitalisat eines Textzeugen (Ausschnitt)" %}
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-[Parzival-Projekt, Universität Bern: Parallele Darstellung von Transkription und Digitalisat eines Textzeugen (Ausschnitt)]
 
 Die Verlinkung erlaubt, die in der *-Textfassung angezeigte Abweichung im Kontext zu betrachten. Im vorliegenden Beispiel heißt dies also, dass die unter der Textfassung *G in Apparat 2 angezeigte Abweichungen im Textzeuge L nachvollzogen werden können: Besonders auffällig ist Vers 806.2, der in L vollkommen anders lautet als in *G.
 
@@ -363,15 +329,8 @@ Die Verlinkung erlaubt, die in der *-Textfassung angezeigte Abweichung im Kontex
 
 Die Erstellung einer musikwissenschaftlichen Edition ist der Erstellung von Text-Editionen hinsichtlich der zu bewältigenden Aufgaben vergleichbar. Ähnlich wie bei der Edition neuerer und älterer Texte gilt es, bestehende Fassungen zu sichten und je nach Zielstellung die Unterschiede zwischen diesen Fassungen nachvollziehbar zu machen, in anderen Worten also "durch die Dokumentation der Entstehungs- und Überlieferungsgeschichte des Werks in Verbindung mit einer kritischen Sichtung aller erreichbaren Überlieferungsträger" (Allroggen 2011 (§3 der Editionsrichtlinien für Notenbände)) eine historisch-kritische Ausgabe anstreben. Das Projekt "Carl-Maria-von-Weber-Gesamtausgabe" strebt an, sämtliche "Kompositionen, Briefe, Tagebücher und Schriften in einer wissenschaftlich-kritischen Gesamtausgabe vorzulegen" (Allroggen 2011 (Projektbeschreibung)) , verbindet also die Text- und Notenedition. 
 
-[
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-[Carl-Maria-von-Weber-Gesamtausgabe: Projektübersicht]
+{% include image.html url="images/image7.png" description="Carl-Maria-von-Weber-Gesamtausgabe: Projektübersicht" %}
 
 
 ### **4.1.2 Werkzeuge**
@@ -381,24 +340,17 @@ Die Erstellung einer musikwissenschaftlichen Edition ist der Erstellung von Text
 
 Das TextGrid-Lab ist eine Komponente der virtuellen Forschungsumgebung [TextGrid](https://textgrid.de/), die für die Arbeit mit Text- und XML-Dateien optimiert ist. Obwohl der prototypische Nutzer eher editionsphilologische Forschungsinteressen hat, erlaubt das Arbeiten in XML-Dateien jede Form der Annotation auf allen Textebenen und auch die Anwendung selbst definierter Klassifizierungen. Dies setzt jedoch voraus, dass der Umgang mit XML entweder erlernt werden muss oder bereits vertraut ist.
 
-[Eingebauter XML-Editor in TextGrid-Lab. Der lizenzpflichtige Editor Oxygen kann nachinstalliert werden.]
+{% include image.html url="images/image8.png" description="Eingebauter XML-Editor in TextGrid-Lab. Der lizenzpflichtige Editor Oxygen kann nachinstalliert werden." %}
 
 
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
-
-[Bild-Annotations-Editor in TextGrid-Lab]
+{% include image.html url="images/image9.png" description="Eingebauter Bild-Annotations-Editor in TextGrid-Lab" %}
 
 
 #### **4.1.2.2 MEI Score Editor: Noten-Editor**
 
 Der MEI Score Editor steht [als Online-Service](https://meise.de.dariah.eu/), als [Teil des TextGrid-Services](https://textgrid.de/web/guest/textgrid-tools-und-services) und als [Desktop-Application](https://sourceforge.net/projects/meise/files/) zur Verfügung. Er dient der Bearbeitung von Musik-Noten nach dem [MEI-Standard](https://music-encoding.org/) als XML und ermöglicht es u. a., Editionen von Werken mit kritischen Apparaten (z. B. Variantenerfassung) und Annotationen zur Werkanalyse zu erstellen (s. hierzu die [MEI-Guidelines](https://music-encoding.org/guidelines/v4/content/)).
 
-[MEI Score Editor als Online-Service.]
+{% include image.html url="images/image10.png" description="MEI Score Editor als Online-Service" %}
 
 
 ## **4.2 Audio- und Video-Annotation**
@@ -424,52 +376,28 @@ keit/Tempo und Rhythmus" (Selting 1995: 1). Das im Bereich der linguistischen Ge
 
 Die Datenbank für gesprochenes Deutsch (DGD) des Instituts für deutsche Sprache, Mannheim bietet Zugriff auf 39 Audio-Korpora, die mit Metadaten, Annotationen und Transkriptionen erschlossen wurden. Die Transkriptionen können direkt auf der Webseite mitsamt Metadaten und Annotationen durchsucht und analysiert werden.
 
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-
-
-[Suchanfrage nach Lemma "Apfel" im _Forschungs- und Lehrkorpus Gesprochenes Deutsch_ (FOLK) der DGD (entnommen: Schmidt & Kaiser 2016: 3)]
+{% include image.html url="images/image11.png" description="Suchanfrage nach Lemma "Apfel" im _Forschungs- und Lehrkorpus Gesprochenes Deutsch_ (FOLK) der DGD (entnommen: Schmidt & Kaiser 2016: 3)" %}
 
 
 #### **4.2.2.2 [TalkBank](https://talkbank.org/) (MacWhinney & Wagner 2010)**
 
 Die TalkBank ist eine Sammlung von Ressourcen und Software, darunter z. B. CHILDES (_Child Language Data Exchange System_), ein Korpus, das Sprachaufnahmen und Transkripte von Kindern in mehreren Sprachen verfügbar macht, und die Software CLAN (_Computerized Language ANalysis_), die speziell dafür entwickelt wurde, Daten zu analysieren, die im CHAT-Format (_Codes for the Human Analysis of Transcripts_) transkribiert wurden (MacWhinney 2000). CLAN bietet Konversionsmöglichkeiten aus CHAT zu einer Reihe von Annotations- und Analysesoftware, darunter auch EXMARaLDA und elan (s. u.).
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
-
-[Ausschnitt eines deutschsprachigen Transkripts des [CHILDES-Korpus](https://sla.talkbank.org/TBB/childes)]
+{% include image.html url="images/image12.png" description="Ausschnitt eines deutschsprachigen Transkripts des [CHILDES-Korpus](https://sla.talkbank.org/TBB/childes)" %}
 
 
 #### **4.2.2.3 [EXMARaLDA](https://exmaralda.org/de/): Aud**io- und **Videoannotation (Schmidt 2004)**
 
 EXMARaLDA erlaubt das zeitalignierte Annotieren von Audio- und Videodateien in einem sogenannten "Partitur-Editor". EXMARaLDA ist eine Einzelplatz-Software und wird kostenlos zum Download für Windows, Mac und Linux angeboten. Das [Demo-Korpus](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus%3Ademo-1.0) bietet einen guten Startpunkt, um den Umgang mit dem System zu lernen.
 
-[Partitur-Editor in EXMARaLDA]
+{% include image.html url="images/image13.png" description="Partitur-Editor in EXMARaLDA" %}
 
 
 #### **4.2.2.4 [elan (Eudico Linguistik Annotator)](https://archive.mpi.nl/tla/elan/download): Videoann**otation (Wittenburg u. a. 2006)
 
 Elan ist für Audio- und Videotranskription geeignet und wurde vom Max-Planck-Institut für Psycholinguistik in Nijmegen entwickelt.
 
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
-
-[Annotationsansicht in elan (Wittenburg u. a. 2006: 1558)
+{% include image.html url="images/image14.png" description="Annotationsansicht in elan (Wittenburg u. a. 2006: 1558" %}
 
 
 ## **4.3 Automatische Text-Annotation auf Satz- und Wortebene**
@@ -487,15 +415,15 @@ Die automatische Text-Annotation dient vor allem dazu, große Textmengen mit bes
 
 Werkzeuge für die automatische Weiterverarbeitung von Texten finden Sie am einfachsten über das [LRS (Language Resource Switchboard)](https://switchboard.clarin.eu/).
 
-[Startseite des Language Resource Switchboards]
+{% include image.html url="images/image15.png" description="Startseite des Language Resource Switchboards" %}
 
 Klicken Sie hierzu einfach auf "Upload files or text" und laden Sie als Nächstes eine Datei von Ihrem Computer auf den Server. Falls die Datei nicht auf Ihrem Computer gespeichert, aber über das Internet direkt erreichbar ist, können Sie auch die entsprechende Webadresse angeben. Als dritte Möglichkeit können Sie auch Text direkt eingeben.
 
-[Upload-Möglichkeiten des LRS]
+{% include image.html url="images/image16.png" description="Upload-Möglichkeiten des LRS" %}
 
 Das LRS prüft das Dateiformat und die Sprache und zeigt alle Werkzeuge an, die für die Weiterverarbeitung des erkannten Formats und der erkannten Sprache zur Verfügung stehen. Sollten Format oder Sprache falsch erkannt werden, können Sie die Auswahl von Hand korrigieren.
 
-[Ergebnisanzeige des LRS für Textdatei in deutscher Sprache]
+{% include image.html url="images/image17.png" description="Ergebnisanzeige des LRS für Textdatei in deutscher Sprache" %}
 
 Nicht alle hier gezeigten Werkzeuge dienen der automatischen Annotation. Die "Voyant Tools" dienen z. B. der Korpusanalyse, "LINDAT Translation" bietet einen automatischen Übersetzungsservice. Alle "WebLicht"-Services können zur automatischen Annotation verwendet werden. Zur Weiterverarbeitung durch eines der angebotenen Werkzeuge, klicken Sie auf "Open" und folgen den Instruktionen.
 
@@ -503,8 +431,7 @@ Nicht alle hier gezeigten Werkzeuge dienen der automatischen Annotation. Die "Vo
 #### **4.3.2.2 Linguistische Mehrebenen-Annotation und Visualisierung mit WebLicht (Hinrichs u. a. 2010)**
 
 
-            <p style="text-align: right">
-Annotated corpora [...] contain information about the language data in the corpus part, information that represents a particular linguistic analysis. Thus, annotation is often debatable, because not everyone may subscribe to the theory or model on which the annotation is based. (Gries 2009: 10)</p>
+Annotated corpora [...] contain information about the language data in the corpus part, information that represents a particular linguistic analysis. Thus, annotation is often debatable, because not everyone may subscribe to the theory or model on which the annotation is based. (Gries 2009: 10)
 
 
 WebLicht ist ein Online-Service der Universität Tübingen im Rahmen der CLARIAH-Infrastruktur, der es ermöglicht, mehrere Annotationswerkzeuge hintereinanderzuschalten.
@@ -718,7 +645,7 @@ WebLicht ist ein Online-Service der Universität Tübingen im Rahmen der CLARIAH
 
 Die Spalte "token" ist die gegebene Information, die restlichen Spalten sind die annotierten Zusatzinformationen. Von links nach rechts werden Informationen zur Wortart, Grundform, Kasus, Genus, Modus, Numerus, Person, Tempus, Verbform, Konstituentenreihenfolge, Relation im Satz und Wert im topologischen Satzmodell gegeben.
 
-[Beispiel für die Visualisierung der der Ebenen "token", "POS" und "rel" der oben gezeigten Tabelle direkt in der WebLicht-Oberfläche.]
+{% include image.html url="images/image18.png" description="Beispiel für die Visualisierung der der Ebenen "token", "POS" und "rel" der oben gezeigten Tabelle direkt in der WebLicht-Oberfläche." %}
 
 
 ## **4.4 Manuelle Text-Annotation auf Satz- und Wortebene**
@@ -736,132 +663,133 @@ Als Werkzeuge für die manuelle Annotation kommen z. B. WebAnno oder CATMA in Fr
 
 #### **4.4.2.1 WebAnno (Eckart de Castilho u. a. 2016)**
 
-[Annotationsanzeige in WebAnno. Quelle: (Eckart de Castilho u. a. 2014) ]
+{% include image.html url="images/image19.png" description="Annotationsanzeige in WebAnno. Quelle: (Eckart de Castilho u. a. 2014)" %}
 
 [WebAnno](https://webanno.github.io/webanno/) ist eher auf die Erstellung von Gold-Standards ausgelegt und bietet z. B. die Möglichkeit, die Übereinstimmung bzw. Abweichung zwischen Annotationen desselben Textes durch mehrere Annotatoren zu berechnen. WebAnno wird als freie Software für die Installation auf einem Server oder einem Einzelrechner angeboten, [ein Zugriff über das Internet ist ebenfalls möglich.](https://webanno.sfs.uni-tuebingen.de/) WebAnno bietet die Möglichkeit, Werkzeuge, z. B. WebLicht, für die automatische (Vor-) Annotation in den Arbeitsablauf zu integrieren.
 
-[[Startseite](https://webanno.sfs.uni-tuebingen.de/) der von der Universität Tübingen im Rahmen der CLARIAH / CLARIN-D-Infrastruktur gehosteten WebAnno-Instanz]
+
+{% include image.html url="images/image20.png" description="[Startseite](https://webanno.sfs.uni-tuebingen.de/) der von der Universität Tübingen im Rahmen der CLARIAH / CLARIN-D-Infrastruktur gehosteten WebAnno-Instanz" %}
 
 
 #### **4.4.2.2 Catma (Gius u. a. 2020)**
 
 [CATMA](https://catma.de/) wurde ursprünglich für literaturwissenschaftliche Annotationen entwickelt und steht online zur Verfügung. Es erlaubt kollaboratives Arbeiten ebenso wie die Erstellung eigener Annotationsschemata mit mehreren Ebenen.
 
-[Annotations-Editor in CATMA. Quelle: [CATMA-Tutorial](https://catma.de/how-to/tutorials/manual-annotation/)]
+{% include image.html url="images/image21.png" description="Annotations-Editor in CATMA. Quelle: [CATMA-Tutorial](https://catma.de/how-to/tutorials/manual-annotation/)" %}
 
 
 # **5 Literatur**
 
 
-    Buchholz, Sabine; Marsi, Erwin (2006): „CoNLL-X shared task on multilingual dependency parsing“. In: Proceedings of the tenth conference on computational natural language learning (CoNLL-X). New York City: Association for Computational Linguistics, S. 149–164, Abgerufen am von[ https://www.aclweb.org/anthology/W06-2920](https://www.aclweb.org/anthology/W06-2920)
+> Buchholz, Sabine; Marsi, Erwin (2006): „CoNLL-X shared task on multilingual dependency parsing“. In: Proceedings of the tenth conference on computational natural language learning (CoNLL-X). New York City: Association for Computational Linguistics, S. 149–164, Abgerufen am von[ https://www.aclweb.org/anthology/W06-2920](https://www.aclweb.org/anthology/W06-2920)
 
 
-    Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition,  (Version 4.3.0 vom 1. Februar 2021)“. Abgerufen am 30.08.2021 von http://weber-gesamtausgabe.de/A020001.
+> Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition,  (Version 4.3.0 vom 1. Februar 2021)“. Abgerufen am 30.08.2021 von http://weber-gesamtausgabe.de/A020001.
 
 
-    Baker, Paul (2006): „„The question is, how cruel is it?“ Keywords, Foxhunting and the House of Commons“. 2006.
+> Baker, Paul (2006): „„The question is, how cruel is it?“ Keywords, Foxhunting and the House of Commons“. 2006.
 
 
-    Bender, Michael; Müller, Marcus (2020): „Heuristische Textpraktiken in den Wissenschaften: Eine kollaborative Annotationsstudie zum akademischen Diskurs“. In: _Zeitschrift für germanistische Linguistik_ 48(1), S. 1–46.
+> Bender, Michael; Müller, Marcus (2020): „Heuristische Textpraktiken in den Wissenschaften: Eine kollaborative Annotationsstudie zum akademischen Diskurs“. In: _Zeitschrift für germanistische Linguistik_ 48(1), S. 1–46.
 
 
-    Bohnenkamp-Renken, Anne (2002): „A1 Neugermanistische Editionswissenschaft“. In: Gabler, Hans Walter; Bohnenkamp-Renken, Anne (Hrsg.): _Kompendium der Editionswissenschaft. Ein Handbuch zur historischen und systematischen Erschließung eines interdisziplinären Gegenstands_. Online-Ausgabe., München: Universität München.
+> Bohnenkamp-Renken, Anne (2002): „A1 Neugermanistische Editionswissenschaft“. In: Gabler, Hans Walter; Bohnenkamp-Renken, Anne (Hrsg.): _Kompendium der Editionswissenschaft. Ein Handbuch zur historischen und systematischen Erschließung eines interdisziplinären Gegenstands_. Online-Ausgabe., München: Universität München.
 
 
-    Brinker, Klaus; Antos, Gerd; Heinemann, Wolfgang; u. a. (Hrsg.) (2000): _Text- und Gesprächslinguistik_. (= Handbücher zur Sprach- und Kommunikationswissenschaft 16,1) Berlin [u.a.]: de Gruyter.
+> Brinker, Klaus; Antos, Gerd; Heinemann, Wolfgang; u. a. (Hrsg.) (2000): _Text- und Gesprächslinguistik_. (= Handbücher zur Sprach- und Kommunikationswissenschaft 16,1) Berlin [u.a.]: de Gruyter.
 
 
-    Brockman, William S.; Digital Library Federation (Hrsg.) (2001): _Scholarly work in the humanities and the evolving information environment_. (= Optimizing collections and services for scholarly use) Washington, D.C: Digital Library Federation, Council on Library and Information Resources.
+> Brockman, William S.; Digital Library Federation (Hrsg.) (2001): _Scholarly work in the humanities and the evolving information environment_. (= Optimizing collections and services for scholarly use) Washington, D.C: Digital Library Federation, Council on Library and Information Resources.
 
 
-    Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): _The Cambridge Handbook of English Corpus Linguistics_. Cambridge University Press, S. 90–105.
+> Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): _The Cambridge Handbook of English Corpus Linguistics_. Cambridge University Press, S. 90–105.
 
 
-    Deppermann, Arnulf (2008): _Gespräche analysieren_. (= Qualitative Sozialforschung 3) 4. Aufl., Wiesbaden: VS Verl. für Sozialwiss.
+> Deppermann, Arnulf (2008): _Gespräche analysieren_. (= Qualitative Sozialforschung 3) 4. Aufl., Wiesbaden: VS Verl. für Sozialwiss.
 
 
-    Deppermann, Arnulf; Habscheid, Stephan; Hartung, Martin; u. a. (2000): „Editorial: Was ist und was will GESPRÄCHSFORSCHUNG? Eine neue Zeitschrift stellt sich vor“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ 1(1), S. 1–8.
+> Deppermann, Arnulf; Habscheid, Stephan; Hartung, Martin; u. a. (2000): „Editorial: Was ist und was will GESPRÄCHSFORSCHUNG? Eine neue Zeitschrift stellt sich vor“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ 1(1), S. 1–8.
 
 
-    Eckart de Castilho, Richard; Biemann, Chris; Gurevych, Iryna; u. a. (2014): „WebAnno: a flexible, web-based annotation tool for CLARIN“. In: _Proceedings of the CLARIN annual conference (CAC) 2014_. Utrecht, Netherlands: CLARIN ERIC, S. online, Citation Key: CLARIN-2014-WEBANNOpublisher-place: Soesterberg, Netherlandstex.pdf: www.clarin.eu/sites/default/files/cac2014ₛubmission₆₀.pdf <sub>b</sub>lanktex.website: https://www.clarin.eu/content/papers-posters-and-demos-cac2014 (Link: http://www.ukp.tu-darmstadt.de/ḧttps://www.clarin.eu/content/papers-posters-and-demos-cac2014̈ ).
+> Eckart de Castilho, Richard; Biemann, Chris; Gurevych, Iryna; u. a. (2014): „WebAnno: a flexible, web-based annotation tool for CLARIN“. In: _Proceedings of the CLARIN annual conference (CAC) 2014_. Utrecht, Netherlands: CLARIN ERIC, S. online, Citation Key: CLARIN-2014-WEBANNOpublisher-place: Soesterberg, Netherlandstex.pdf: www.clarin.eu/sites/default/files/cac2014ₛubmission₆₀.pdf <sub>b</sub>lanktex.website: https://www.clarin.eu/content/papers-posters-and-demos-cac2014 (Link: http://www.ukp.tu-darmstadt.de/ḧttps://www.clarin.eu/content/papers-posters-and-demos-cac2014̈ ).
 
 
-    Eckart de Castilho, Richard; Mújdricza-Maydt, Éva; Yimam, Seid Muhie; u. a. (2016): „A web-based tool for the integrated annotation of semantic and syntactic structures“. In: _Proceedings of the workshop on language technology resources and tools for digital humanities (LT4DH)_. Osaka, Japan: The COLING 2016 Organizing Committee, S. 76–84, Abgerufen am von https://www.aclweb.org/anthology/W16-4011, Citation Key: eckart-de-castilho-etal-2016-web.
+> Eckart de Castilho, Richard; Mújdricza-Maydt, Éva; Yimam, Seid Muhie; u. a. (2016): „A web-based tool for the integrated annotation of semantic and syntactic structures“. In: _Proceedings of the workshop on language technology resources and tools for digital humanities (LT4DH)_. Osaka, Japan: The COLING 2016 Organizing Committee, S. 76–84, Abgerufen am von https://www.aclweb.org/anthology/W16-4011, Citation Key: eckart-de-castilho-etal-2016-web.
 
 
-    Galinski, Agathe (2004): „Zweierlei Perspektiven auf Gespräche: Ethnomethodologische Konversationsanalyse und Diskursanalyse im kontrastiven Vergleich“. LINSE - Linguistik Server Essen.
+> Galinski, Agathe (2004): „Zweierlei Perspektiven auf Gespräche: Ethnomethodologische Konversationsanalyse und Diskursanalyse im kontrastiven Vergleich“. LINSE - Linguistik Server Essen.
 
 
-    Gius, Evelyn; Meister, Jan Christoph; Petris, Marco; u. a. (2020): _CATMA_. Zenodo.
+> Gius, Evelyn; Meister, Jan Christoph; Petris, Marco; u. a. (2020): _CATMA_. Zenodo.
 
 
-    Glück, Helmut; Rödel, Michael (Hrsg.) (2016): _Metzler Lexikon Sprache_. (= SpringerLink : Bücher) 5. Aufl., Stuttgart: J.B. Metzler, Citation Key: UBHD-68045541  tex.library: UB.
+> Glück, Helmut; Rödel, Michael (Hrsg.) (2016): _Metzler Lexikon Sprache_. (= SpringerLink : Bücher) 5. Aufl., Stuttgart: J.B. Metzler, Citation Key: UBHD-68045541  tex.library: UB.
 
 
-    Gries, Stefan Thomas (2009): „What is Corpus Linguistics?“. In: _Language and Linguistics Compass_ 3(5), S. 1–17.
+> Gries, Stefan Thomas (2009): „What is Corpus Linguistics?“. In: _Language and Linguistics Compass_ 3(5), S. 1–17.
 
 
-    Hinrichs, Erhard W.; Hinrichs, Marie; Zastrow, Thomas (2010): „WebLicht: Web-Based LRT Services for German“. In: _Proceedings of the ACL 2010 System Demonstrations_. S. 25–29, Abgerufen am von http://www.aclweb.org/anthology/P10-4005.
+> Hinrichs, Erhard W.; Hinrichs, Marie; Zastrow, Thomas (2010): „WebLicht: Web-Based LRT Services for German“. In: _Proceedings of the ACL 2010 System Demonstrations_. S. 25–29, Abgerufen am von http://www.aclweb.org/anthology/P10-4005.
 
 
-    IDS Mannheim (2014): _Datenbank für gesprochenes Deutsch DGD_.
+> IDS Mannheim (2014): _Datenbank für gesprochenes Deutsch DGD_.
 
 
-    MacWhinney, Brian (2000): _The CHILDES Project: Tools for Analyzing Talk._ 3. Aufl., Mahwah, NJ: Lawrence Erlbaum Associates.
+> MacWhinney, Brian (2000): _The CHILDES Project: Tools for Analyzing Talk._ 3. Aufl., Mahwah, NJ: Lawrence Erlbaum Associates.
 
 
-    MacWhinney, Brian; Wagner, Johannes (2010): „Transcribing, searching and data sharing: The CLAN software and the TalkBank data repository.“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ (11), S. 154–173.
+> MacWhinney, Brian; Wagner, Johannes (2010): „Transcribing, searching and data sharing: The CLAN software and the TalkBank data repository.“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ (11), S. 154–173.
 
 
-    Meister, Jan Christoph (2015): „All dressed up and nowhere to go? The strategic role of digital humanities annotation tools“. Warburg-Haus, 30.10.2015.
+> Meister, Jan Christoph (2015): „All dressed up and nowhere to go? The strategic role of digital humanities annotation tools“. Warburg-Haus, 30.10.2015.
 
 
-    National Information Standards Organization (U.S.) (2004): _Understanding metadata._ Bethesda, MD: NISO Press.
+> National Information Standards Organization (U.S.) (2004): _Understanding metadata._ Bethesda, MD: NISO Press.
 
 
-    Neuroth, Heike; Neuroth, Heike; Rapp, Andrea; Söring, Sibylle (Hrsg.): (2015): „TextGrid: Von der Community - für die Community: Eine virtuelle Forschungsumgebung für die Geisteswissenschaften“. In: Düsseldorf ; vwh, W. Hülsbusch [Printversion] in Kooperation mit dem Universitätsverlag Göttingen [Onlineversion], S. 350 p.
+> Neuroth, Heike; Neuroth, Heike; Rapp, Andrea; Söring, Sibylle (Hrsg.): (2015): „TextGrid: Von der Community - für die Community: Eine virtuelle Forschungsumgebung für die Geisteswissenschaften“. In: Düsseldorf ; vwh, W. Hülsbusch [Printversion] in Kooperation mit dem Universitätsverlag Göttingen [Onlineversion], S. 350 p.
 
 
-    Nutt-Kofoth, Rüdiger (2012): „Sichten – Perspektiven auf Text“. In: Bohnenkamp-Renken, Anne (Hrsg.): _Medienwandel / Medienwechsel in der Editionswissenschaft_. Berlin, Boston: DE GRUYTER, S. 19–29.
+> Nutt-Kofoth, Rüdiger (2012): „Sichten – Perspektiven auf Text“. In: Bohnenkamp-Renken, Anne (Hrsg.): _Medienwandel / Medienwechsel in der Editionswissenschaft_. Berlin, Boston: DE GRUYTER, S. 19–29.
 
 
-    Plachta, Bodo (2013): _Editionswissenschaft : Eine Einführung in Methode und Praxis der Edition neuerer Texte_. (= Reclams universal-bibliothek 17603) 3. ergänzte und aktualisierte Auflage., Stuttgart: Reclam.
+> Plachta, Bodo (2013): _Editionswissenschaft : Eine Einführung in Methode und Praxis der Edition neuerer Texte_. (= Reclams universal-bibliothek 17603) 3. ergänzte und aktualisierte Auflage., Stuttgart: Reclam.
 
 
-    Rehbein, Jochen; Schmidt, Thomas; Meyer, Bernd; u. a. (2004): _Handbuch für das computergestütze Transkribieren nach HIAT_. (= Arbeiten zur Mehrsprachigkeit - Folge B) Hamburg: Sonderforschungsbereich 538.
+> Rehbein, Jochen; Schmidt, Thomas; Meyer, Bernd; u. a. (2004): _Handbuch für das computergestütze Transkribieren nach HIAT_. (= Arbeiten zur Mehrsprachigkeit - Folge B) Hamburg: Sonderforschungsbereich 538.
 
 
-    Schmidt, Thomas (2004): „EXMARaLDA - ein modellierungs- und visualisierungsverfahren für die computergestützte transkription gesprochener sprache“. In: Buchberger, Ernst (Hrsg.): _Proceedings of konvens 2004_. (= 5) Abgerufen am von http://www.exmaralda.org/files/Konvens_Paper.pdf, Citation Key: Schmidt2004.
+> Schmidt, Thomas (2004): „EXMARaLDA - ein modellierungs- und visualisierungsverfahren für die computergestützte transkription gesprochener sprache“. In: Buchberger, Ernst (Hrsg.): _Proceedings of konvens 2004_. (= 5) Abgerufen am von http://www.exmaralda.org/files/Konvens_Paper.pdf, Citation Key: Schmidt2004.
 
 
-    Schmidt, Thomas; Kaiser, Julia (2016): „Einführung in die Benutzung der Ressourcen DGD und FOLK für gesprächsanalytische Zwecke. Handreichung: Einfache Recherche-Anfragen als Übungs-Beispiele“. IDS. Institut für deutsche Sprache Mannheim.
+> Schmidt, Thomas; Kaiser, Julia (2016): „Einführung in die Benutzung der Ressourcen DGD und FOLK für gesprächsanalytische Zwecke. Handreichung: Einfache Recherche-Anfragen als Übungs-Beispiele“. IDS. Institut für deutsche Sprache Mannheim.
 
 
-    Schmunk, Stefan; Reiche, Ruth; Schöch, Christof; u. a.; Blümm, Mirjam; Schmunk, Stefan; Schöch, Christof (Hrsg.): (2014): „Verfahren der digital humanities in den geistes- und kulturwissenschaften“. In: _DARIAH-DE Working-Papers 4_ 4, S. 1–35, Citation Key: article.
+> Schmunk, Stefan; Reiche, Ruth; Schöch, Christof; u. a.; Blümm, Mirjam; Schmunk, Stefan; Schöch, Christof (Hrsg.): (2014): „Verfahren der digital humanities in den geistes- und kulturwissenschaften“. In: _DARIAH-DE Working-Papers 4_ 4, S. 1–35, Citation Key: article.
 
 
-    Seiffert, Hans Werner (2005): „Edition (1956/58)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): _Dokumente zur Geschichte der neugermanistischen Edition_. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der Edition.
+> Seiffert, Hans Werner (2005): „Edition (1956/58)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): _Dokumente zur Geschichte der neugermanistischen Edition_. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der Edition.
 
 
-    Selting, Margret (1995): _Prosodie im Gespräch: Aspekte einer interaktionalen Phonologie der Konversation_. (= Linguistische Arbeiten ARRAY(0x55d602f55848)) Tübingen: Zugl.: Oldenburg, Univ., Habil.-Schr., 1991.
+> Selting, Margret (1995): _Prosodie im Gespräch: Aspekte einer interaktionalen Phonologie der Konversation_. (= Linguistische Arbeiten ARRAY(0x55d602f55848)) Tübingen: Zugl.: Oldenburg, Univ., Habil.-Schr., 1991.
 
 
-    Selting, Margret; Auer, Peter; Deppermann, Arnulf; Hartung, Martin (Hrsg.): (2009): „Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ (10), S. 353–402.
+> Selting, Margret; Auer, Peter; Deppermann, Arnulf; Hartung, Martin (Hrsg.): (2009): „Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)“. In: _Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion_ (10), S. 353–402.
 
 
-    Sidnell, Jack (Hrsg.) (2013): _The handbook of conversation analysis_. (= Blackwell handbooks in linguistics) Malden, Mass.: Wiley-Blackwell.
+> Sidnell, Jack (Hrsg.) (2013): _The handbook of conversation analysis_. (= Blackwell handbooks in linguistics) Malden, Mass.: Wiley-Blackwell.
 
 
-    Stolz, Michael (2014): „Chretiens ,Roman de Perceval ou le Conte du Graal’ und Wolframs .Parzival’. Ihre Überlieferung und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): _Wolframs parzival-roman im europäischen kontext : Tübinger kolloqium 2012_. (= Veröffentlichungen der wolfram-von-eschenbach-gesellschaft 23) Berlin.
+> Stolz, Michael (2014): „Chretiens ,Roman de Perceval ou le Conte du Graal’ und Wolframs .Parzival’. Ihre Überlieferung und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): _Wolframs parzival-roman im europäischen kontext : Tübinger kolloqium 2012_. (= Veröffentlichungen der wolfram-von-eschenbach-gesellschaft 23) Berlin.
 
 
-    Stolz, Michael (2021): „Parzival-Projekt. Wolfram von Eschenbach, ›Parzival‹.  Eine überlieferungskritische Ausgabe in digitaler Form.“. _Parzival-Projekt_ Abgerufen am 30.08.2021 von https://www.parzival.unibe.ch/home.html.
+> Stolz, Michael (2021): „Parzival-Projekt. Wolfram von Eschenbach, ›Parzival‹.  Eine überlieferungskritische Ausgabe in digitaler Form.“. _Parzival-Projekt_ Abgerufen am 30.08.2021 von https://www.parzival.unibe.ch/home.html.
 
 
-    Suphan, Bernhard (2005): „Vorreden zur Weimarer Goethe-Ausgabe, Bd. 1 (1887)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): _Dokumente zur Geschichte der neugermanistischen Edition_. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, collection-title: Bausteine zur Geschichte der Edition.
+> Suphan, Bernhard (2005): „Vorreden zur Weimarer Goethe-Ausgabe, Bd. 1 (1887)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): _Dokumente zur Geschichte der neugermanistischen Edition_. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, collection-title: Bausteine zur Geschichte der Edition.
 
 
-    Unsworth, John (2000): „Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?“. London, 13.5.2000.
+> Unsworth, John (2000): „Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?“. London, 13.5.2000.
 
 
-    Wittenburg, Peter; Brugman, Hennie; Russel, Albert; u. a. (2006): „ELAN: a professional framework for multimodality research“. In: _Proceedings of the fifth international conference on language resources and evaluation (LREC’06)_. Genoa, Italy: European Language Resources Association (ELRA), Abgerufen am von http://www.lrec-conf.org/proceedings/lrec2006/pdf/153ₚdf.pdf, Citation Key: wittenburg-etal-2006-elan.
+> Wittenburg, Peter; Brugman, Hennie; Russel, Albert; u. a. (2006): „ELAN: a professional framework for multimodality research“. In: _Proceedings of the fifth international conference on language resources and evaluation (LREC’06)_. Genoa, Italy: European Language Resources Association (ELRA), Abgerufen am von http://www.lrec-conf.org/proceedings/lrec2006/pdf/153ₚdf.pdf, Citation Key: wittenburg-etal-2006-elan.
