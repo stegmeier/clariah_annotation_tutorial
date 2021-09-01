@@ -1,9 +1,9 @@
 # Inhalt
-[1 Einleitung](#1-einleitung)
-[2 Annotation als Arbeitsphase in einem Forschungsprojekt](#2-annotation-als-arbeitsphase-in-einem-Forschungsprojekt)
-[3 Annotationen in den Geisteswissenschaften](#3-annotation-in-den-geisteswissenschaften)
-[4 Annotationsarten und -werkzeuge](#4-annotationsarten-und--werkzeuge)
-[5 Literaturverzeichnis](#5-literatur)
+* [1 Einleitung](#1-einleitung)
+* [2 Annotation als Arbeitsphase in einem Forschungsprojekt](#2-annotation-als-arbeitsphase-in-einem-forschungsprojekt)
+* [3 Annotationen in den Geisteswissenschaften](#3-annotation-in-den-geisteswissenschaften)
+* [4 Annotationsarten und -werkzeuge](#4-annotationsarten-und--werkzeuge)
+* [5 Literaturverzeichnis](#5-literatur)
 
 
 # **1 Einleitung**
