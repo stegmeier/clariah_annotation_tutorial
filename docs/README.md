@@ -42,7 +42,7 @@ Den Zeitaufwand für die tatsächliche Annotation und alle damit verbundenen Arb
 
 ## **2.3 Workflow Annotation in einem Forschungsprojekt**
 
-{% include image.html url="docs/images/annotation_workflow.png" description="Einbettung von Annotationsarbeiten in ein Forschungsprojekt" %}
+{% include image.html url="/docs/images/annotation_workflow.png" description="Einbettung von Annotationsarbeiten in ein Forschungsprojekt" %}
 
 
 
