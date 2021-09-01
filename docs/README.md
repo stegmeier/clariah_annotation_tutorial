@@ -3,7 +3,6 @@
 
 # **1 Einleitung**
 
-{% include table_test.html %}
 
 ## **1.1 Ziele**
 
@@ -75,6 +74,9 @@ Dabei ist zu beachten, dass manche Definitionen, wie z. B. die oben angeführte 
 ## **3.2 Annotation: Anwendung vs. Erstellung eines Kategoriensystems**
 
 Annotation kann als Methode aus zwei Richtungen betrachtet werden: Zum einen unterstützen Annotationen den Prozess der Kategorienbildung im Sinne der Erstellung eines Kategoriensystems, zum anderen erlaubt das Annotieren, vorhandene Kategorien in den annotierten Daten explizit zu machen. Vorhandene Kategorien können sich auf alle Dimensionen von Text beziehen, zum Beispiel:
+
+{% include table_test.html %}
+
 
 {% include table1.html %}
 
