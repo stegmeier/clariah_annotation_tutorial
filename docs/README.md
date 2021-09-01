@@ -314,10 +314,10 @@ Als Werkzeuge für die manuelle Annotation kommen z. B. WebAnno oder CATMA in Fr
 
 #### **4.4.2.2 Catma (Gius u. a. 2020)**
 
-[CATMA](https://catma.de/) wurde ursprünglich für literaturwissenschaftliche Annotationen entwickelt und steht als Online-Service zur Verfügung. Es erlaubt kollaboratives Arbeiten ebenso wie die Erstellung eigener Annotationsschemata mit mehreren Ebenen. Der folgende Screenshot ist dem [CATMA-Tutorial](https://catma.de/how-to/tutorials/manual-annotation/") entnommen.
+[CATMA](https://catma.de/) wurde ursprünglich für literaturwissenschaftliche Annotationen entwickelt und steht als Online-Service zur Verfügung. Es erlaubt kollaboratives Arbeiten ebenso wie die Erstellung eigener Annotationsschemata mit mehreren Ebenen. Der folgende Screenshot ist dem [CATMA-Tutorial](https://catma.de/how-to/tutorials/manual-annotation/) entnommen.
 
 
-{% include image.html url="images/image21.png" description="Annotations-Editor in CATMA. %}
+{% include image.html url="images/image21.png" description="Annotations-Editor in CATMA." %}
 
 
 
