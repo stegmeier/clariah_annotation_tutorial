@@ -40,11 +40,10 @@ In beiden Fällen gilt es auch zu entscheiden, wie die Häufigkeiten und ihre Un
 Den Zeitaufwand für die tatsächliche Annotation und alle damit verbundenen Arbeiten möglichst verlässlich zu schätzen, ist eine der wichtigsten Vorarbeiten für eine Dissertation oder Masterarbeit. Daher lohnt es sich, sich diese Schritte möglichst genau vor Augen zu führen, indem sie zumindest ansatzweise durchgeführt werden, bevor man sich auf ein Thema festlegt.
 
 
-## **2.3 Workflow Annotation in einem Forschungsprojekt **
+## **2.3 Workflow Annotation in einem Forschungsprojekt**
 
 ![alt_text](images/image1.png "image_tooltip")
-
-[Einbettung von Annotationsarbeiten in ein Forschungsprojekt]
+*Einbettung von Annotationsarbeiten in ein Forschungsprojekt*
 
 
 # **3 Annotation in den Geisteswissenschaften**
