@@ -41,6 +41,7 @@ Den Zeitaufwand für die tatsächliche Annotation und alle damit verbundenen Arb
 
 
 ## **2.3 Workflow Annotation in einem Forschungsprojekt **
+
 ![alt_text](images/image1.png "image_tooltip")
 
 [Einbettung von Annotationsarbeiten in ein Forschungsprojekt]
@@ -48,9 +49,7 @@ Den Zeitaufwand für die tatsächliche Annotation und alle damit verbundenen Arb
 
 # **3 Annotation in den Geisteswissenschaften**
 
-            <p style="text-align: right">
-Annotation is one of the most important scholarly primitives in the humanities […]. Annotation tools can demonstrate, perhaps like no other tool can, the usefulness of bringing the digital into the humanities. (Meister 2015 15:20 min)</p>
-
+Annotation is one of the most important scholarly primitives in the humanities […]. Annotation tools can demonstrate, perhaps like no other tool can, the usefulness of bringing the digital into the humanities. (Meister 2015 15:20 min)
 
 
 ## **3.1 Annotation: Anreicherung mit Zusatzinformation**
